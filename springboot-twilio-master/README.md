@@ -20,3 +20,5 @@ the Java application.
 - You can download the app or use on a Web browser
 - The picture below shows how to configure the Postman
 
+
+![](img/Postman%20sms%20configuration.jpg 
